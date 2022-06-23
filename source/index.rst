@@ -11,6 +11,8 @@ We help over 100,000 **open source projects** *share their docs*, including a cu
 
 .. image:: /images/sshot.png
 
+Here's a big change!!
+
 We will ``host your documentation`` for free, forever. There are no tricks. We help over 100,000 open source projects share their docs, including a custom domain and theme.
 
 See screenshot above
